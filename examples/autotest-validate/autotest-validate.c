@@ -1,3 +1,4 @@
+
 /**
 * A simple file to validate your automated test setup for AESD
 */
@@ -27,5 +28,5 @@ bool this_function_returns_false()
  */
 const char *my_username()
 {
-    return "todo-please-enter-your-username-here-in-my_username";
+    return "gabrielsaavedrah";
 }
